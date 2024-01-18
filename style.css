@@ -69,12 +69,12 @@ h1 {
 }
 .btn1 {
   padding: 8px 20px;
-  background-color: grey;
+  background-color:  rgba(46, 46, 161, 0.61);
   border-radius: 25px;
 }
 .btn2 {
   padding: 10px 20px;
-  background-color: grey;
+  background-color:  rgba(46, 46, 161, 0.61);
   border-radius: 25px;
 }
 .second {
@@ -190,7 +190,7 @@ h1 {
 .thirdboxbtn {
   padding: 12px 20px;
   color: white;
-  background-color: grey;
+  background-color:  rgba(46, 46, 161, 0.61);
   text-align: center;
   width: 200px;
   border-radius: 10px;
